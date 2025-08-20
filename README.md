@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=header&text=Gaurav%20Jha%20%7C%20Fullstack%20Dev%20%7C%20UI%2FUX%20Designer&fontSize=24&fontColor=ffffff&desc=🚀+Turning+ideas+into+kinda+perfect+products!+✨&descAlignY=65&descAlign=65" alt="Banner">
+</p>
+
+
 # 💫 About Me:
 👤 Name: Gaurav Jha<br>💻 Freelancer: Fullstack Development (MERN, Next.js) & Designing (UI/UX, Graphic, Web)<br>🎨 Creative Side: UI/UX & Graphic Designer<br>📚 Open Source Learner: Exploring contributions in DSA, Web Dev, and AI/ML<br>💡 Fun Fact: I don’t just write code, I make it kinda perfect ✨<br>🎯 Current Focus: AI/ML + Deep JavaScript & Python<br>🚀 Goal: To build scalable, high-impact products and grow with teams that want innovation, speed, and perfection 💼
 
